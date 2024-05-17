@@ -5,12 +5,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>About</title>
-    <!-- Custom CSS Link -->
-    <link rel="stylesheet" href="./css/style.css?<?php echo time(); ?>">
+
     <!-- swiper css -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
     <!-- font awesome link -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    <!-- Custom CSS Link -->
+    <link rel="stylesheet" href="./css/style.css?<?php echo time(); ?>">
 </head>
 
 <body>
@@ -61,7 +62,7 @@
     <section class="reviews">
         <div class="swiper reviews-slider">
             <div class="swiper-wrapper">
-                <div class="swiper-slider slide">
+                <div class="swiper-slide slide">
                     <div class="stars">
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
@@ -74,7 +75,7 @@
                     <span>traveler</span>
                     <img src="img/review-1.jpg" alt="">
                 </div>
-                <div class="swiper-slider slide">
+                <div class="swiper-slide slide">
                     <div class="stars">
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
@@ -86,7 +87,7 @@
                     <span>traveler</span>
                     <img src="img/review-2.jpg" alt="">
                 </div>
-                <div class="swiper-slider slide">
+                <div class="swiper-slide slide">
                     <div class="stars">
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
@@ -97,7 +98,7 @@
                     <span>traveler</span>
                     <img src="img/review-3.jpg" alt="">
                 </div>
-                <div class="swiper-slider slide">
+                <div class="swiper-slide slide">
                     <div class="stars">
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
@@ -110,7 +111,7 @@
                     <span>traveler</span>
                     <img src="img/review-4.jpg" alt="">
                 </div>
-                <div class="swiper-slider slide">
+                <div class="swiper-slide slide">
                     <div class="stars">
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
@@ -122,7 +123,7 @@
                     <span>traveler</span>
                     <img src="img/review-5.jpg" alt="">
                 </div>
-                <div class="swiper-slider slide">
+                <div class="swiper-slide slide">
                     <div class="stars">
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
