@@ -195,7 +195,7 @@ section {
 }
 
 .services .box-container .box:hover {
-  background: var(--black);
+  background: var(--light-black);
 }
 
 .services .box-container .box h3 {

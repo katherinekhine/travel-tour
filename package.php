@@ -36,7 +36,7 @@
         <div class="box-container">
             <div class="box">
                 <div class="image">
-                    <img src="img/travel-2.jpg" alt="">
+                    <img src="img/travel.jpg" alt="">
                 </div>
                 <div class="content">
                     <h3>adventure & tour</h3>
@@ -46,7 +46,7 @@
             </div>
             <div class="box">
                 <div class="image">
-                    <img src="img/travel-2.jpg" alt="">
+                    <img src="img/travel-1.jpg" alt="">
                 </div>
                 <div class="content">
                     <h3>adventure & tour</h3>
@@ -56,7 +56,7 @@
             </div>
             <div class="box">
                 <div class="image">
-                    <img src="img/travel-2.jpg" alt="">
+                    <img src="img/travel-3.jpg" alt="">
                 </div>
                 <div class="content">
                     <h3>adventure & tour</h3>
@@ -66,7 +66,7 @@
             </div>
             <div class="box">
                 <div class="image">
-                    <img src="img/travel-2.jpg" alt="">
+                    <img src="img/travel-4.jpg" alt="">
                 </div>
                 <div class="content">
                     <h3>adventure & tour</h3>
@@ -76,7 +76,7 @@
             </div>
             <div class="box">
                 <div class="image">
-                    <img src="img/travel-2.jpg" alt="">
+                    <img src="img/travel-5.jpg" alt="">
                 </div>
                 <div class="content">
                     <h3>adventure & tour</h3>
@@ -86,7 +86,7 @@
             </div>
             <div class="box">
                 <div class="image">
-                    <img src="img/travel-2.jpg" alt="">
+                    <img src="img/travel-6.jpg" alt="">
                 </div>
                 <div class="content">
                     <h3>adventure & tour</h3>
@@ -96,7 +96,7 @@
             </div>
             <div class="box">
                 <div class="image">
-                    <img src="img/travel-2.jpg" alt="">
+                    <img src="img/travel-7.jpg" alt="">
                 </div>
                 <div class="content">
                     <h3>adventure & tour</h3>
@@ -106,7 +106,7 @@
             </div>
             <div class="box">
                 <div class="image">
-                    <img src="img/travel-2.jpg" alt="">
+                    <img src="img/travel-8.jpg" alt="">
                 </div>
                 <div class="content">
                     <h3>adventure & tour</h3>
@@ -116,7 +116,7 @@
             </div>
             <div class="box">
                 <div class="image">
-                    <img src="img/travel-2.jpg" alt="">
+                    <img src="img/travel-9.jpg" alt="">
                 </div>
                 <div class="content">
                     <h3>adventure & tour</h3>
@@ -126,7 +126,7 @@
             </div>
             <div class="box">
                 <div class="image">
-                    <img src="img/travel-2.jpg" alt="">
+                    <img src="img/travel-10.jpg" alt="">
                 </div>
                 <div class="content">
                     <h3>adventure & tour</h3>
@@ -136,7 +136,7 @@
             </div>
             <div class="box">
                 <div class="image">
-                    <img src="img/travel-2.jpg" alt="">
+                    <img src="img/travel-11.jpg" alt="">
                 </div>
                 <div class="content">
                     <h3>adventure & tour</h3>

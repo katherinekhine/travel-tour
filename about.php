@@ -27,7 +27,7 @@
         <div id="menu-btn" class="fas fa-bars"></div>
     </section>
     <!-- header section end -->
-    <div class="heading" style="background: url(img/travel-1.jpg) no-repeat;">
+    <div class="heading" style="background: url(img/home.jpg) no-repeat;">
         <h1> About Us</h1>
     </div>
 

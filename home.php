@@ -38,14 +38,14 @@
                         <a href="package.php" class="btn">discover more</a>
                     </div>
                 </div>
-                <div class="swiper-slide slide" style="background: url(img/travel-1.jpg) no-repeat">
+                <div class="swiper-slide slide" style="background: url(img/home-1.jpg) no-repeat">
                     <div class="content">
                         <span>explore, discover, travel</span>
                         <h3>discover the new places</h3>
                         <a href="package.php" class="btn">discover more</a>
                     </div>
                 </div>
-                <div class="swiper-slide slide" style="background: url(img/travel-1.jpg) no-repeat">
+                <div class="swiper-slide slide" style="background: url(img/home-2.jpg) no-repeat">
                     <div class="content">
                         <span>explore, discover, travel</span>
                         <h3>make your tour worthwhile</h3>
@@ -62,29 +62,29 @@
     <!-- service section start -->
     <section class="services">
         <h1 class="heading-title"> Our Services</h1>
-        <div class="box-container">
+        <div class="box-container service-ani">
             <div class="box">
-                <img src="img/travel.jpg" alt="">
+                <img src="img/adventure.png" alt="">
                 <h3>adventure</h3>
             </div>
             <div class="box">
-                <img src="img/travel-1.jpg" alt="">
+                <img src="img/path.png" alt="">
                 <h3>tour guide</h3>
             </div>
             <div class="box">
-                <img src="img/travel-1.jpg" alt="">
+                <img src="img/mountain.png" alt="">
                 <h3>trekking</h3>
             </div>
             <div class="box">
-                <img src="img/travel-1.jpg" alt="">
+                <img src="img/fire.png" alt="">
                 <h3>camp fire</h3>
             </div>
             <div class="box">
-                <img src="img/travel-1.jpg" alt="">
+                <img src="img/signpost.png" alt="">
                 <h3>off road</h3>
             </div>
             <div class="box">
-                <img src="img/travel-1.jpg" alt="">
+                <img src="img/tent.png" alt="">
                 <h3>camping</h3>
             </div>
         </div>
@@ -130,7 +130,7 @@
             </div>
             <div class="box">
                 <div class="image">
-                    <img src="img/travel-2.jpg" alt="">
+                    <img src="img/travel-3.jpg" alt="">
                 </div>
                 <div class="content">
                     <h3>Adventure & Tour</h3>
