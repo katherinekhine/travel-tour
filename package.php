@@ -16,9 +16,9 @@
 <body>
     <!-- header section start -->
     <section class="header">
-        <a href="home.php" class="logo">travel.</a>
+        <a href="index.php" class="logo">travel.</a>
         <nav class="navbar">
-            <a href="home.php">Home</a>
+            <a href="index.php">Home</a>
             <a href="about.php">About</a>
             <a href="package.php">Packages</a>
             <a href="book.php">Book</a>
@@ -156,7 +156,7 @@
         <div class="box-container">
             <div class="box">
                 <h3>Quick Links</h3>
-                <a href="home.php"><i class="fas fa-angle-right"></i>Home</a>
+                <a href="index.php"><i class="fas fa-angle-right"></i>Home</a>
                 <a href="about.php"><i class="fas fa-angle-right"></i>About</a>
                 <a href="package.php"><i class="fas fa-angle-right"></i>Packages</a>
                 <a href="book.php"><i class="fas fa-angle-right"></i>Book</a>
